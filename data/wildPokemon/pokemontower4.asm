@@ -1,0 +1,14 @@
+TowerMons4:
+	db $0A
+	db 24,GASTLY
+	db 28,GASTLY
+	db 32,GASTLY
+	db 36,CUBONE
+	db 40,GASTLY
+	db 44,GASTLY
+	db 48,GASTLY
+	db 52,HAUNTER
+	db 56,HAUNTER
+	db 60,GENGAR
+	db $00
+

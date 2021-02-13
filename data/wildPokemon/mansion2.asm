@@ -1,0 +1,13 @@
+MansionMons2:
+	db $05
+	db 62,GROWLITHE
+	db 63,KOFFING
+	db 64,KOFFING
+	db 65,MAGMAR
+	db 66,KOFFING
+	db 70,PONYTA
+	db 70,GRIMER
+	db 75,MAGMAR
+	db 75,WEEZING
+	db 80,MUK
+	db $00

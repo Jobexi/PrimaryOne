@@ -1,0 +1,13 @@
+Route23Mons:
+	db $17
+	db 75,EKANS
+	db 76,MEOWTH
+	db 77,SPEAROW
+	db 78,SANDSHREW
+	db 79,DIGLETT
+	db 80,FEAROW
+	db 80,FARFETCHD
+	db 85,ARBOK
+	db 85,SANDSLASH
+	db 90,DITTO
+	db $00

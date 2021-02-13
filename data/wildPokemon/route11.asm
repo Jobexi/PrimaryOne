@@ -1,0 +1,25 @@
+Route11Mons:
+	db $0F
+	db 27,EKANS
+	db 28,SPEAROW
+	db 29,DROWZEE
+	db 30,ABRA
+	db 31,GRIMER
+	db 35,KADABRA
+	db 35,MUK
+	db 40,HYPNO
+	db 40,ARBOK
+	db 45,ALAKAZAM
+	db $0F
+	db 27,HORSEA
+	db 28,GOLDEEN
+	db 29,STARYU
+	db 30,MAGIKARP
+	db 31,PSYDUCK
+	db 35,GOLDUCK
+	db 35,KINGLER
+	db 40,STARMIE
+	db 40,DEWGONG
+	db 45,GYARADOS
+	db $00
+

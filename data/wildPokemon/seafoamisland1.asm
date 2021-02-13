@@ -1,0 +1,13 @@
+IslandMons1:
+	db $0D
+	db 21,SEEL
+	db 22,SLOWPOKE
+	db 23,SHELLDER
+	db 24,HORSEA
+	db 25,ZUBAT
+	db 30,JYNX
+	db 30,PSYDUCK
+	db 35,GOLDUCK
+	db 35,POLIWAG
+	db 40,TENTACOOL
+	db $00

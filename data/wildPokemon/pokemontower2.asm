@@ -1,0 +1,13 @@
+TowerMons2:
+	db $0A
+	db 22,GASTLY
+	db 24,CUBONE
+	db 26,GASTLY
+	db 28,GASTLY
+	db 30,GASTLY
+	db 32,GASTLY
+	db 34,GASTLY
+	db 36,HAUNTER
+	db 38,HAUNTER
+	db 40,GENGAR
+	db $00

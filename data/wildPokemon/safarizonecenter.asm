@@ -1,0 +1,13 @@
+ZoneMonsCenter:
+	db $1E
+	db 49,NIDORAN_M
+	db 50,RHYHORN
+	db 51,VENONAT
+	db 52,EXEGGCUTE
+	db 53,NIDORINO
+	db 55,EXEGGCUTE
+	db 55,NIDORINA
+	db 60,PARASECT
+	db 60,SCYTHER
+	db 65,CHANSEY
+	db $00

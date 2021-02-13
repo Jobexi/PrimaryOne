@@ -1,0 +1,14 @@
+wJobexi1 Codes
+-=-=-
+0: Nothing
+1: Using a RocketBall
+2: Initiating a Map Tile Change
+3: Randomize Last 3 Pokemon
+4: Randomize Last 4 Pokemon
+5: Randomize First 5 Pokemon
+6: Randomize All Pokemon
+-=-=-=-
+wJobexi2 Codes
+-=-=-
+0: Nothing (Used to Randomize from a Total set of All Pokemon)
+1: Entering from Pewter City

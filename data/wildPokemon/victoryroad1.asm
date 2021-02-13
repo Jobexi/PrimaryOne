@@ -1,0 +1,13 @@
+PlateauMons1:
+	db $0F
+	db 76,DRATINI
+	db 77,GEODUDE
+	db 78,ZUBAT
+	db 79,ONIX
+	db 80,GRAVELER
+	db 85,GOLBAT
+	db 85,MACHOKE
+	db 90,MAROWAK
+	db 90,GENGAR
+	db 95,RHYDON
+	db $00

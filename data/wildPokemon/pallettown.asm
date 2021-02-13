@@ -1,0 +1,24 @@
+PalletMons:
+	db $19
+	db 2,PIDGEY
+	db 2,RATTATA
+	db 3,SPEAROW
+	db 4,MEOWTH
+	db 5,DODUO
+	db 10,PIDGEOTTO
+	db 10,PORYGON
+	db 15,PIDGEOT
+	db 15,TAUROS			
+	db 20,DITTO			
+	db $0F
+	db 2,PSYDUCK
+	db 2,POLIWHIRL
+	db 3,TENTACOOL	
+	db 4,SLOWPOKE
+	db 5,SEEL
+	db 10,KINGLER
+	db 10,SEAKING
+	db 15,SEADRA
+	db 15,LAPRAS
+	db 20,GYARADOS
+	db $00

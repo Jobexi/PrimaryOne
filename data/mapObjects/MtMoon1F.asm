@@ -1,0 +1,52 @@
+MtMoon1F_Object:
+	db $3 ; border block
+
+	db 17 ; warps
+	warp 14, 35, 1, -1
+	warp 15, 35, 1, -1
+	warp  9,  5, 0, MT_MOON_B1F
+	warp 33, 31, 2, MT_MOON_B1F
+	warp  5, 23, 3, MT_MOON_B1F
+	warp 37, 15, 8, MT_MOON_B1F
+	warp 37, 23, 9, MT_MOON_B1F
+	warp 37, 19, 10, MT_MOON_B1F
+	warp 37, 11, 11, MT_MOON_B1F
+	warp 37,  3, 12, MT_MOON_B1F
+	warp 37,  7, 13, MT_MOON_B1F
+	warp 33, 19, 8, MT_MOON_B1F
+	warp 33,  3, 9, MT_MOON_B1F
+	warp 33, 23, 10, MT_MOON_B1F
+	warp 33, 15, 11, MT_MOON_B1F
+	warp 33,  7, 12, MT_MOON_B1F
+	warp 33, 11, 13, MT_MOON_B1F
+
+	db 1 ; signs
+	sign 15, 29, 14 ; MtMoon1Text14
+
+	db 13 ; objects
+	object SPRITE_HIKER,  5,  4, STAY, DOWN, 1, OPP_HIKER, 1
+	object SPRITE_BUG_CATCHER,  4, 16, STAY, RIGHT, 2, OPP_YOUNGSTER, 3
+	object SPRITE_LASS, 20,  5, STAY, DOWN, 3, OPP_LASS, 5
+	object SPRITE_BLACK_HAIR_BOY_2, 19,  8, STAY, UP, 4, OPP_SUPER_NERD, 1
+	object SPRITE_LASS, 17, 21, STAY, DOWN, 5, OPP_LASS, 6
+	object SPRITE_BUG_CATCHER,  7, 22, STAY, DOWN, 6, OPP_BUG_CATCHER, 7
+	object SPRITE_BUG_CATCHER, 25, 24, STAY, RIGHT, 7, OPP_BUG_CATCHER, 8
+	object SPRITE_BALL,  2, 20, STAY, NONE, 8, POTION
+	object SPRITE_BALL,  2,  2, STAY, NONE, 9, MOON_STONE
+	object SPRITE_BALL, 27,  3, STAY, NONE, 10, RARE_CANDY
+	object SPRITE_BALL, 36, 28, STAY, NONE, 11, ESCAPE_ROPE
+	object SPRITE_BALL, 20, 33, STAY, NONE, 12, POTION
+	object SPRITE_BALL,  5, 32, STAY, NONE, 13, TM_12
+
+	; warp-to
+	warp_to 14, 35, MT_MOON_1F_WIDTH
+	warp_to 15, 35, MT_MOON_1F_WIDTH
+	warp_to  9,  5, MT_MOON_1F_WIDTH ; MT_MOON_B1F
+	warp_to 33, 31, MT_MOON_1F_WIDTH ; MT_MOON_B1F
+	warp_to  5, 23, MT_MOON_1F_WIDTH ; MT_MOON_B1F
+	warp_to 35, 23, MT_MOON_1F_WIDTH ; MT_MOON_B1F
+	warp_to 35, 19, MT_MOON_1F_WIDTH ; MT_MOON_B1F
+	warp_to 35, 15, MT_MOON_1F_WIDTH ; MT_MOON_B1F
+	warp_to 35,  7, MT_MOON_1F_WIDTH ; MT_MOON_B1F
+	warp_to 35, 11, MT_MOON_1F_WIDTH ; MT_MOON_B1F
+	warp_to 35,  3, MT_MOON_1F_WIDTH ; MT_MOON_B1F

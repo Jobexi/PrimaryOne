@@ -1,0 +1,13 @@
+PlateauMons3:
+	db $0F
+	db 76,DRATINI
+	db 77,GEODUDE
+	db 78,ZUBAT
+	db 79,MACHOKE
+	db 80,ONIX
+	db 85,GRAVELER
+	db 85,DRAGONAIR
+	db 90,VENOMOTH	
+	db 90,MACHAMP
+	db 95,DRAGONITE
+	db $00

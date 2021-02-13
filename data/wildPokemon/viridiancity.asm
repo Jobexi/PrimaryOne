@@ -1,0 +1,24 @@
+ViridianCityMons:
+	db $19
+	db 3,MEOWTH
+	db 4,SANDSHREW
+	db 5,DIGLETT
+	db 6,CUBONE
+	db 7,RHYHORN
+	db 10,RATICATE
+	db 10,FEAROW
+	db 15,SANDSLASH
+	db 15,DUGTRIO
+	db 20,NIDOQUEEN
+	db $0F
+	db 3,TENTACOOL	
+	db 4,SLOWPOKE
+	db 5,SEEL
+	db 6,SHELLDER	
+	db 7,KRABBY
+	db 10,GOLDUCK
+	db 10,SLOWBRO
+	db 15,CLOYSTER
+	db 15,STARMIE
+	db 20,GYARADOS
+	db $00

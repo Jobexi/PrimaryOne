@@ -1,0 +1,13 @@
+IslandMonsB4:
+	db $05
+	db 61,HORSEA
+	db 62,SHELLDER
+	db 63,SLOWPOKE
+	db 64,SEEL
+	db 65,SLOWBRO
+	db 70,JYNX
+	db 70,BLASTOISE
+	db 73,GYARADOS
+	db 75,POLIWRATH	
+	db 80,ARTICUNO
+	db $00

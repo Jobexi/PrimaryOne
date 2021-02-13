@@ -1,0 +1,24 @@
+LavenderTownMons:
+	db $0F
+	db 33,DODUO
+	db 34,EEVEE
+	db 35,KOFFING
+	db 36,GRIMER
+	db 37,EXEGGCUTE
+	db 40,MUK
+	db 40,GASTLY
+	db 45,WEEZING
+	db 45,HAUNTER
+	db 50,GENGAR
+	db $0F
+	db 33,SLOWPOKE
+	db 34,SEEL
+	db 35,SHELLDER
+	db 36,KRABBY
+	db 37,HORSEA
+	db 40,SLOWBRO
+	db 40,KINGLER
+	db 45,SEADRA
+	db 45,CLOYSTER
+	db 50,GYARADOS
+	db $00

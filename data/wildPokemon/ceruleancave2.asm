@@ -1,0 +1,13 @@
+DungeonMons2:
+	db $0F
+	db 76,DODRIO
+	db 77,VENOMOTH
+	db 78,MR_MIME
+	db 79,RHYDON
+	db 80,MAROWAK
+	db 85,ELECTRODE
+	db 85,CHANSEY
+	db 90,WIGGLYTUFF
+	db 90,DITTO
+	db 95,MEWTWO
+	db $00

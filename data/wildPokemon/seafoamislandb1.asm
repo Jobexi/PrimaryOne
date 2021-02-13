@@ -1,0 +1,14 @@
+IslandMonsB1:
+	db $0B
+	db 31,STARYU
+	db 32,HORSEA
+	db 33,SHELLDER
+	db 34,SLOWPOKE
+	db 35,SEEL
+	db 40,DEWGONG
+	db 40,JYNX
+	db 45,PSYDUCK
+	db 45,POLIWAG
+	db 50,TENTACOOL
+	db $00
+
